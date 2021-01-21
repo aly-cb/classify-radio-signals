@@ -1,6 +1,6 @@
 # Classify Signal with Keras
 
-![alt text](https://cdn.images.express.co.uk/img/dynamic/151/590x/radio-signals-space-mystery-glitch-baffles-astronomers-studying-radio-pulsar-1225187.webp?r=1578417972090)
+![alt text](https://strangesounds.org/wp-content/uploads/2016/10/space-signals-from-hidden-galaxies.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   1. Introduction and Import Libraries :heavy_check_mark:
